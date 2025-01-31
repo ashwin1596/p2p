@@ -63,13 +63,3 @@ p2p-storage/
 ```
 
 ---
-
-## Task List
-- [x] Implement Tensor class and operations.
-- [x] Add Python bindings.
-- [x] Create example neural networks.
-- [x] Expand documentation.
-- [x] Optimize GPU implementations.
-- [x] Add loss functions and optimizers.
-
----
