@@ -12,7 +12,7 @@ Traditional centralized storage systems struggle with scalability, single points
 - Scalable resource allocation
 - Efficient peer-to-peer synchronization
 
-## User Impact
+## User Impact (Projected)
 - Improved data accessibility by 40%
 - Reduced storage infrastructure costs
 - Enhanced fault tolerance
