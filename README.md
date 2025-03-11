@@ -12,6 +12,12 @@ Traditional centralized storage systems struggle with scalability, single points
 - Scalable resource allocation
 - Efficient peer-to-peer synchronization
 
+## Current Work (In Progress)
+- Working on a Developed a Python-based decentralized storage application, leveraging Kademlia DHT for efficient,
+ fault-tolerant decentralized lookup of data files, ensuring high scalability and availability.
+- Implementing high-performance gRPC communication protocols to facilitate reliable, low-latency data transfer and
+ synchronization between distributed peers in the network.
+
 ## User Impact (Projected)
 - Improved data accessibility by 40%
 - Reduced storage infrastructure costs
